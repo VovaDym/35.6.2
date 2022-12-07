@@ -8,7 +8,7 @@
 
 int main()
 {
-	std::vector<int> vec = { 1, 2, 2, 5, 3, 4, 4, 1 };
+	std::vector<int> vec = { 1, 2, 2, 5, 2, 4, 4, 1 };
 	
 	auto lambda = [](const std::vector<int>&vec)
 	{
